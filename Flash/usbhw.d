@@ -1,0 +1,12 @@
+.\Flash\usbhw.o: audio\usbhw.c
+.\Flash\usbhw.o: audio\LPC17xx.h
+.\Flash\usbhw.o: audio\core_cm3.h
+.\Flash\usbhw.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\Flash\usbhw.o: audio\system_LPC17xx.h
+.\Flash\usbhw.o: audio\type.h
+.\Flash\usbhw.o: audio\usb.h
+.\Flash\usbhw.o: audio\usbcfg.h
+.\Flash\usbhw.o: audio\usbreg.h
+.\Flash\usbhw.o: audio\usbhw.h
+.\Flash\usbhw.o: audio\usbcore.h
+.\Flash\usbhw.o: audio\usbuser.h

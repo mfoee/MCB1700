@@ -1,0 +1,11 @@
+.\Flash\photo_viewer.o: PHOTO_VIEWER.c
+.\Flash\photo_viewer.o: C:\Keil\ARM\Inc\NXP\LPC17xx\LPC17xx.H
+.\Flash\photo_viewer.o: C:\Keil\ARM\CMSIS\Include\core_cm3.h
+.\Flash\photo_viewer.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\Flash\photo_viewer.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\Flash\photo_viewer.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\Flash\photo_viewer.o: C:\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h
+.\Flash\photo_viewer.o: PHOTO_VIEWER.h
+.\Flash\photo_viewer.o: GLCD.h
+.\Flash\photo_viewer.o: LED.h
+.\Flash\photo_viewer.o: KBD.h

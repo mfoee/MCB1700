@@ -1,0 +1,590 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+S:\Desktop\project\Blinky.uvproj
+Project File Date:  11/17/2014
+
+<h2>Output:</h2>
+Build target 'LPC1768 Flash'
+compiling Blinky.c...
+KBD.h(13): warning:  #1-D: last line of file ends without a newline
+snake.h(4): warning:  #1295-D: Deprecated declaration snakegame - give arg types
+snake.h(6): warning:  #1-D: last line of file ends without a newline
+compiling fish.c...
+fish.c: Error:  #5: cannot open source input file "S:\fish.c": No such file or directory
+Target not created
+Build target 'LPC1768 Flash'
+compiling fish.c...
+fish.c: Error:  #5: cannot open source input file "S:\fish.c": No such file or directory
+Target not created
+Build target 'LPC1768 Flash'
+compiling Blinky.c...
+KBD.h(13): warning:  #1-D: last line of file ends without a newline
+snake.h(4): warning:  #1295-D: Deprecated declaration snakegame - give arg types
+snake.h(6): warning:  #1-D: last line of file ends without a newline
+compiling fish.c...
+fish.c: Error:  #5: cannot open source input file "S:\fish.c": No such file or directory
+Target not created
+Build target 'LPC1768 Flash'
+compiling PHOTO_VIEWER.c...
+KBD.h(13): warning:  #1-D: last line of file ends without a newline
+PHOTO_VIEWER.c(42): error:  #20: identifier "face2" is undefined
+PHOTO_VIEWER.c(38): warning:  #177-D: variable "delay" was declared but never referenced
+PHOTO_VIEWER.c(140): error:  #20: identifier "face2" is undefined
+PHOTO_VIEWER.c(107): warning:  #177-D: variable "DELAY" was declared but never referenced
+compiling fish.c...
+fish.c: Error:  #5: cannot open source input file "S:\fish.c": No such file or directory
+Target not created
+Build target 'LPC1768 Flash'
+compiling PHOTO_VIEWER.c...
+KBD.h(13): warning:  #1-D: last line of file ends without a newline
+PHOTO_VIEWER.c(38): warning:  #177-D: variable "delay" was declared but never referenced
+PHOTO_VIEWER.c(107): warning:  #177-D: variable "DELAY" was declared but never referenced
+compiling fish.c...
+fish.c: Error:  #5: cannot open source input file "S:\fish.c": No such file or directory
+Target not created
+Build target 'LPC1768 Flash'
+compiling usbdmain.c...
+audio\kbd.h(13): warning:  #1-D: last line of file ends without a newline
+audio\usbdmain.c(204): warning:  #940-D: missing return statement at end of non-void function "audio_main"
+audio\usbdmain.c(149): warning:  #177-D: variable "connect" was declared but never referenced
+audio\usbdmain.c(150): warning:  #177-D: variable "joystick_val" was declared but never referenced
+linking...
+.\Flash\Blinky.axf: Error: L6218E: Undefined symbol artsy (referred from photo_viewer.o).
+.\Flash\Blinky.axf: Error: L6218E: Undefined symbol face2 (referred from photo_viewer.o).
+.\Flash\Blinky.axf: Error: L6218E: Undefined symbol fish (referred from photo_viewer.o).
+Target not created
+Build target 'LPC1768 Flash'
+compiling PHOTO_VIEWER.c...
+KBD.h(13): warning:  #1-D: last line of file ends without a newline
+PHOTO_VIEWER.c(38): warning:  #177-D: variable "delay" was declared but never referenced
+PHOTO_VIEWER.c(140): error:  #20: identifier "face2" is undefined
+PHOTO_VIEWER.c(107): warning:  #177-D: variable "DELAY" was declared but never referenced
+Target not created
+Build target 'LPC1768 Flash'
+compiling PHOTO_VIEWER.c...
+KBD.h(13): warning:  #1-D: last line of file ends without a newline
+PHOTO_VIEWER.c(38): warning:  #177-D: variable "delay" was declared but never referenced
+PHOTO_VIEWER.c(141): error:  #127: expected a statement
+PHOTO_VIEWER.c(143): error:  #127: expected a statement
+PHOTO_VIEWER.c(107): warning:  #177-D: variable "DELAY" was declared but never referenced
+Target not created
+Build target 'LPC1768 Flash'
+compiling PHOTO_VIEWER.c...
+KBD.h(13): warning:  #1-D: last line of file ends without a newline
+PHOTO_VIEWER.c(38): warning:  #177-D: variable "delay" was declared but never referenced
+PHOTO_VIEWER.c(107): warning:  #177-D: variable "DELAY" was declared but never referenced
+PHOTO_VIEWER.c(109): warning:  #177-D: variable "picture_ptr" was declared but never referenced
+linking...
+Program Size: Code=16838 RO-data=46230 RW-data=188 ZI-data=2372  
+".\Flash\Blinky.axf" - 0 Error(s), 4 Warning(s).
+Load "S:\\Desktop\\project\\Flash\\Blinky.axf" 
+Internal DLL Error
+Load "S:\\Desktop\\project\\Flash\\Blinky.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'LPC1768 Flash'
+compiling usbdmain.c...
+audio\kbd.h(13): warning:  #1-D: last line of file ends without a newline
+audio\usbdmain.c(205): warning:  #940-D: missing return statement at end of non-void function "audio_main"
+audio\usbdmain.c(149): warning:  #177-D: variable "connect" was declared but never referenced
+audio\usbdmain.c(150): warning:  #177-D: variable "joystick_val" was declared but never referenced
+linking...
+Program Size: Code=16842 RO-data=46230 RW-data=188 ZI-data=2372  
+".\Flash\Blinky.axf" - 0 Error(s), 4 Warning(s).
+Load "S:\\Desktop\\project\\Flash\\Blinky.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'LPC1768 Flash'
+compiling Blinky.c...
+KBD.h(13): warning:  #1-D: last line of file ends without a newline
+snake.h(4): warning:  #1295-D: Deprecated declaration snakegame - give arg types
+snake.h(6): warning:  #1-D: last line of file ends without a newline
+compiling usbdmain.c...
+audio\kbd.h(13): warning:  #1-D: last line of file ends without a newline
+audio\usbdmain.c(205): warning:  #940-D: missing return statement at end of non-void function "audio_main"
+audio\usbdmain.c(149): warning:  #177-D: variable "connect" was declared but never referenced
+audio\usbdmain.c(150): warning:  #177-D: variable "joystick_val" was declared but never referenced
+linking...
+Program Size: Code=16818 RO-data=46230 RW-data=188 ZI-data=2372  
+".\Flash\Blinky.axf" - 0 Error(s), 7 Warning(s).
+Load "S:\\Desktop\\project\\Flash\\Blinky.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'LPC1768 Flash'
+compiling usbdmain.c...
+audio\kbd.h(13): warning:  #1-D: last line of file ends without a newline
+audio\usbdmain.c(204): warning:  #940-D: missing return statement at end of non-void function "audio_main"
+audio\usbdmain.c(149): warning:  #177-D: variable "connect" was declared but never referenced
+audio\usbdmain.c(150): warning:  #177-D: variable "joystick_val" was declared but never referenced
+linking...
+Program Size: Code=16818 RO-data=46230 RW-data=188 ZI-data=2372  
+".\Flash\Blinky.axf" - 0 Error(s), 4 Warning(s).
+Load "S:\\Desktop\\project\\Flash\\Blinky.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'LPC1768 Flash'
+compiling usbdmain.c...
+audio\kbd.h(13): warning:  #1-D: last line of file ends without a newline
+audio\usbdmain.c(207): warning:  #940-D: missing return statement at end of non-void function "audio_main"
+audio\usbdmain.c(149): warning:  #177-D: variable "connect" was declared but never referenced
+audio\usbdmain.c(150): warning:  #177-D: variable "joystick_val" was declared but never referenced
+linking...
+Program Size: Code=16826 RO-data=46230 RW-data=188 ZI-data=2372  
+".\Flash\Blinky.axf" - 0 Error(s), 4 Warning(s).
+Load "S:\\Desktop\\project\\Flash\\Blinky.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'LPC1768 Flash'
+compiling usbdmain.c...
+audio\kbd.h(13): warning:  #1-D: last line of file ends without a newline
+audio\usbdmain.c(212): warning:  #940-D: missing return statement at end of non-void function "audio_main"
+audio\usbdmain.c(149): warning:  #177-D: variable "connect" was declared but never referenced
+audio\usbdmain.c(150): warning:  #177-D: variable "joystick_val" was declared but never referenced
+linking...
+Program Size: Code=16866 RO-data=46230 RW-data=188 ZI-data=2372  
+".\Flash\Blinky.axf" - 0 Error(s), 4 Warning(s).
+Load "S:\\Desktop\\project\\Flash\\Blinky.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'LPC1768 Flash'
+compiling usbdmain.c...
+audio\kbd.h(13): warning:  #1-D: last line of file ends without a newline
+audio\usbdmain.c(213): warning:  #940-D: missing return statement at end of non-void function "audio_main"
+audio\usbdmain.c(149): warning:  #177-D: variable "connect" was declared but never referenced
+audio\usbdmain.c(150): warning:  #177-D: variable "joystick_val" was declared but never referenced
+linking...
+Program Size: Code=16874 RO-data=46230 RW-data=188 ZI-data=2372  
+".\Flash\Blinky.axf" - 0 Error(s), 4 Warning(s).
+Load "S:\\Desktop\\project\\Flash\\Blinky.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'LPC1768 Flash'
+compiling usbdmain.c...
+audio\kbd.h(13): warning:  #1-D: last line of file ends without a newline
+audio\usbdmain.c(213): warning:  #940-D: missing return statement at end of non-void function "audio_main"
+audio\usbdmain.c(149): warning:  #177-D: variable "connect" was declared but never referenced
+audio\usbdmain.c(150): warning:  #177-D: variable "joystick_val" was declared but never referenced
+linking...
+Program Size: Code=16862 RO-data=46230 RW-data=188 ZI-data=2372  
+".\Flash\Blinky.axf" - 0 Error(s), 4 Warning(s).
+Load "S:\\Desktop\\project\\Flash\\Blinky.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'LPC1768 Flash'
+compiling usbdmain.c...
+audio\kbd.h(13): warning:  #1-D: last line of file ends without a newline
+audio\usbdmain.c(213): warning:  #940-D: missing return statement at end of non-void function "audio_main"
+audio\usbdmain.c(148): warning:  #177-D: variable "i" was declared but never referenced
+audio\usbdmain.c(148): warning:  #177-D: variable "j" was declared but never referenced
+audio\usbdmain.c(149): warning:  #177-D: variable "connect" was declared but never referenced
+audio\usbdmain.c(150): warning:  #177-D: variable "joystick_val" was declared but never referenced
+linking...
+Program Size: Code=16826 RO-data=46230 RW-data=188 ZI-data=2372  
+".\Flash\Blinky.axf" - 0 Error(s), 6 Warning(s).
+Load "S:\\Desktop\\project\\Flash\\Blinky.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'LPC1768 Flash'
+compiling usbdmain.c...
+audio\kbd.h(13): warning:  #1-D: last line of file ends without a newline
+audio\usbdmain.c(148): warning:  #177-D: variable "j" was declared but never referenced
+linking...
+Program Size: Code=16846 RO-data=46230 RW-data=188 ZI-data=2372  
+".\Flash\Blinky.axf" - 0 Error(s), 2 Warning(s).
+Build target 'LPC1768 Flash'
+compiling usbdmain.c...
+audio\kbd.h(13): warning:  #1-D: last line of file ends without a newline
+audio\usbdmain.c(148): warning:  #177-D: variable "j" was declared but never referenced
+linking...
+Program Size: Code=16846 RO-data=46230 RW-data=188 ZI-data=2372  
+".\Flash\Blinky.axf" - 0 Error(s), 2 Warning(s).
+Load "S:\\Desktop\\project\\Flash\\Blinky.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'LPC1768 Flash'
+compiling usbdmain.c...
+audio\kbd.h(13): warning:  #1-D: last line of file ends without a newline
+audio\usbdmain.c(148): warning:  #177-D: variable "j" was declared but never referenced
+linking...
+Program Size: Code=16854 RO-data=46230 RW-data=188 ZI-data=2372  
+".\Flash\Blinky.axf" - 0 Error(s), 2 Warning(s).
+Load "S:\\Desktop\\project\\Flash\\Blinky.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'LPC1768 Flash'
+compiling usbdmain.c...
+audio\kbd.h(13): warning:  #1-D: last line of file ends without a newline
+audio\usbdmain.c(148): warning:  #177-D: variable "j" was declared but never referenced
+linking...
+Program Size: Code=16854 RO-data=46230 RW-data=188 ZI-data=2372  
+".\Flash\Blinky.axf" - 0 Error(s), 2 Warning(s).
+Load "S:\\Desktop\\project\\Flash\\Blinky.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'LPC1768 Flash'
+compiling usbdmain.c...
+audio\kbd.h(13): warning:  #1-D: last line of file ends without a newline
+audio\usbdmain.c(148): warning:  #177-D: variable "j" was declared but never referenced
+linking...
+Program Size: Code=16854 RO-data=46230 RW-data=188 ZI-data=2372  
+".\Flash\Blinky.axf" - 0 Error(s), 2 Warning(s).
+Load "S:\\Desktop\\project\\Flash\\Blinky.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'LPC1768 Flash'
+compiling usbdmain.c...
+audio\kbd.h(13): warning:  #1-D: last line of file ends without a newline
+audio\usbdmain.c(148): warning:  #177-D: variable "j" was declared but never referenced
+linking...
+Program Size: Code=16946 RO-data=46230 RW-data=188 ZI-data=2372  
+".\Flash\Blinky.axf" - 0 Error(s), 2 Warning(s).
+Load "S:\\Desktop\\project\\Flash\\Blinky.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'LPC1768 Flash'
+compiling usbdmain.c...
+audio\kbd.h(13): warning:  #1-D: last line of file ends without a newline
+audio\usbdmain.c(148): warning:  #177-D: variable "j" was declared but never referenced
+linking...
+Program Size: Code=16966 RO-data=46230 RW-data=188 ZI-data=2372  
+".\Flash\Blinky.axf" - 0 Error(s), 2 Warning(s).
+Build target 'LPC1768 Flash'
+compiling usbdmain.c...
+audio\kbd.h(13): warning:  #1-D: last line of file ends without a newline
+audio\usbdmain.c(148): warning:  #177-D: variable "j" was declared but never referenced
+linking...
+Program Size: Code=16902 RO-data=46230 RW-data=188 ZI-data=2372  
+".\Flash\Blinky.axf" - 0 Error(s), 2 Warning(s).
+Build target 'LPC1768 Flash'
+compiling usbdmain.c...
+audio\kbd.h(13): warning:  #1-D: last line of file ends without a newline
+audio\usbdmain.c(148): warning:  #177-D: variable "j" was declared but never referenced
+linking...
+Program Size: Code=16902 RO-data=46230 RW-data=188 ZI-data=2372  
+".\Flash\Blinky.axf" - 0 Error(s), 2 Warning(s).
+Load "S:\\Desktop\\project\\Flash\\Blinky.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'LPC1768 Flash'
+compiling Blinky.c...
+KBD.h(13): warning:  #1-D: last line of file ends without a newline
+snake.h(4): warning:  #1295-D: Deprecated declaration snakegame - give arg types
+snake.h(6): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=16902 RO-data=46230 RW-data=188 ZI-data=2372  
+".\Flash\Blinky.axf" - 0 Error(s), 3 Warning(s).
+Load "S:\\Desktop\\project\\Flash\\Blinky.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'LPC1768 Flash'
+compiling Blinky.c...
+KBD.h(13): warning:  #1-D: last line of file ends without a newline
+snake.h(4): warning:  #1295-D: Deprecated declaration snakegame - give arg types
+snake.h(6): warning:  #1-D: last line of file ends without a newline
+linking...
+.\Flash\Blinky.axf: Error: L6200E: Symbol delay multiply defined (by snake.o and blinky.o).
+Target not created
+Build target 'LPC1768 Flash'
+compiling Blinky.c...
+KBD.h(13): warning:  #1-D: last line of file ends without a newline
+snake.h(4): warning:  #1295-D: Deprecated declaration snakegame - give arg types
+snake.h(5): warning:  #1295-D: Deprecated declaration delay - give arg types
+snake.h(7): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=16910 RO-data=46230 RW-data=188 ZI-data=2372  
+".\Flash\Blinky.axf" - 0 Error(s), 4 Warning(s).
+Load "S:\\Desktop\\project\\Flash\\Blinky.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'LPC1768 Flash'
+compiling usbdmain.c...
+audio\kbd.h(13): warning:  #1-D: last line of file ends without a newline
+audio\usbdmain.c(148): warning:  #177-D: variable "j" was declared but never referenced
+linking...
+Program Size: Code=16910 RO-data=46230 RW-data=188 ZI-data=2372  
+".\Flash\Blinky.axf" - 0 Error(s), 2 Warning(s).
+Load "S:\\Desktop\\project\\Flash\\Blinky.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'LPC1768 Flash'
+compiling Blinky.c...
+KBD.h(13): warning:  #1-D: last line of file ends without a newline
+snake.h(4): warning:  #1295-D: Deprecated declaration snakegame - give arg types
+snake.h(5): warning:  #1295-D: Deprecated declaration delay - give arg types
+snake.h(7): warning:  #1-D: last line of file ends without a newline
+compiling usbdmain.c...
+audio\kbd.h(13): warning:  #1-D: last line of file ends without a newline
+audio\usbdmain.c(148): warning:  #177-D: variable "j" was declared but never referenced
+linking...
+Program Size: Code=16926 RO-data=46230 RW-data=188 ZI-data=2372  
+".\Flash\Blinky.axf" - 0 Error(s), 6 Warning(s).
+Load "S:\\Desktop\\project\\Flash\\Blinky.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'LPC1768 Flash'
+compiling usbdmain.c...
+audio\kbd.h(13): warning:  #1-D: last line of file ends without a newline
+audio\usbdmain.c(148): warning:  #177-D: variable "j" was declared but never referenced
+linking...
+Program Size: Code=16962 RO-data=46230 RW-data=188 ZI-data=2372  
+".\Flash\Blinky.axf" - 0 Error(s), 2 Warning(s).
+Load "S:\\Desktop\\project\\Flash\\Blinky.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'LPC1768 Flash'
+compiling usbdmain.c...
+audio\kbd.h(13): warning:  #1-D: last line of file ends without a newline
+audio\usbdmain.c(148): warning:  #177-D: variable "j" was declared but never referenced
+linking...
+Program Size: Code=16986 RO-data=46230 RW-data=188 ZI-data=2372  
+".\Flash\Blinky.axf" - 0 Error(s), 2 Warning(s).
+Load "S:\\Desktop\\project\\Flash\\Blinky.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'LPC1768 Flash'
+compiling usbdmain.c...
+audio\kbd.h(13): warning:  #1-D: last line of file ends without a newline
+audio\usbdmain.c(148): warning:  #177-D: variable "j" was declared but never referenced
+linking...
+Program Size: Code=16990 RO-data=46230 RW-data=188 ZI-data=2372  
+".\Flash\Blinky.axf" - 0 Error(s), 2 Warning(s).
+Load "S:\\Desktop\\project\\Flash\\Blinky.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'LPC1768 Flash'
+compiling usbdmain.c...
+audio\kbd.h(13): warning:  #1-D: last line of file ends without a newline
+audio\usbdmain.c(148): warning:  #177-D: variable "j" was declared but never referenced
+linking...
+Program Size: Code=17042 RO-data=46230 RW-data=188 ZI-data=2372  
+".\Flash\Blinky.axf" - 0 Error(s), 2 Warning(s).
+Load "S:\\Desktop\\project\\Flash\\Blinky.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'LPC1768 Flash'
+compiling usbdmain.c...
+audio\kbd.h(13): warning:  #1-D: last line of file ends without a newline
+audio\usbdmain.c(148): warning:  #177-D: variable "j" was declared but never referenced
+linking...
+Program Size: Code=17042 RO-data=46230 RW-data=188 ZI-data=2372  
+".\Flash\Blinky.axf" - 0 Error(s), 2 Warning(s).
+Load "S:\\Desktop\\project\\Flash\\Blinky.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'LPC1768 Flash'
+compiling usbdmain.c...
+audio\kbd.h(13): warning:  #1-D: last line of file ends without a newline
+audio\usbdmain.c(148): warning:  #177-D: variable "j" was declared but never referenced
+linking...
+Program Size: Code=17070 RO-data=46230 RW-data=188 ZI-data=2372  
+".\Flash\Blinky.axf" - 0 Error(s), 2 Warning(s).
+Build target 'LPC1768 Flash'
+compiling usbdmain.c...
+audio\kbd.h(13): warning:  #1-D: last line of file ends without a newline
+audio\usbdmain.c(148): warning:  #177-D: variable "j" was declared but never referenced
+linking...
+Program Size: Code=17054 RO-data=46230 RW-data=188 ZI-data=2372  
+".\Flash\Blinky.axf" - 0 Error(s), 2 Warning(s).
+Load "S:\\Desktop\\project\\Flash\\Blinky.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'LPC1768 Flash'
+compiling usbdmain.c...
+audio\kbd.h(13): warning:  #1-D: last line of file ends without a newline
+audio\usbdmain.c(148): warning:  #177-D: variable "j" was declared but never referenced
+linking...
+Program Size: Code=17054 RO-data=46230 RW-data=188 ZI-data=2372  
+".\Flash\Blinky.axf" - 0 Error(s), 2 Warning(s).
+Build target 'LPC1768 Flash'
+compiling usbdmain.c...
+audio\kbd.h(13): warning:  #1-D: last line of file ends without a newline
+audio\usbdmain.c(148): warning:  #177-D: variable "j" was declared but never referenced
+linking...
+Program Size: Code=17070 RO-data=46230 RW-data=188 ZI-data=2372  
+".\Flash\Blinky.axf" - 0 Error(s), 2 Warning(s).
+Load "S:\\Desktop\\project\\Flash\\Blinky.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'LPC1768 Flash'
+compiling usbdmain.c...
+audio\kbd.h(13): warning:  #1-D: last line of file ends without a newline
+audio\usbdmain.c(148): warning:  #177-D: variable "j" was declared but never referenced
+linking...
+Program Size: Code=17094 RO-data=46230 RW-data=188 ZI-data=2372  
+".\Flash\Blinky.axf" - 0 Error(s), 2 Warning(s).
+Load "S:\\Desktop\\project\\Flash\\Blinky.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'LPC1768 Flash'
+compiling usbdmain.c...
+audio\kbd.h(13): warning:  #1-D: last line of file ends without a newline
+audio\usbdmain.c(148): warning:  #177-D: variable "j" was declared but never referenced
+linking...
+Program Size: Code=17070 RO-data=46230 RW-data=188 ZI-data=2372  
+".\Flash\Blinky.axf" - 0 Error(s), 2 Warning(s).
+Load "S:\\Desktop\\project\\Flash\\Blinky.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'LPC1768 Flash'
+compiling usbdmain.c...
+audio\kbd.h(13): warning:  #1-D: last line of file ends without a newline
+audio\usbdmain.c(148): warning:  #177-D: variable "j" was declared but never referenced
+linking...
+Program Size: Code=17086 RO-data=46230 RW-data=188 ZI-data=2372  
+".\Flash\Blinky.axf" - 0 Error(s), 2 Warning(s).
+Load "S:\\Desktop\\project\\Flash\\Blinky.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'LPC1768 Flash'
+compiling usbdmain.c...
+audio\kbd.h(13): warning:  #1-D: last line of file ends without a newline
+audio\usbdmain.c(148): warning:  #177-D: variable "j" was declared but never referenced
+linking...
+Program Size: Code=17142 RO-data=46230 RW-data=188 ZI-data=2372  
+".\Flash\Blinky.axf" - 0 Error(s), 2 Warning(s).
+Load "S:\\Desktop\\project\\Flash\\Blinky.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'LPC1768 Flash'
+compiling usbdmain.c...
+audio\kbd.h(13): warning:  #1-D: last line of file ends without a newline
+audio\usbdmain.c(148): warning:  #177-D: variable "j" was declared but never referenced
+linking...
+Program Size: Code=17142 RO-data=46230 RW-data=188 ZI-data=2372  
+".\Flash\Blinky.axf" - 0 Error(s), 2 Warning(s).
+Load "S:\\Desktop\\project\\Flash\\Blinky.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'LPC1768 Flash'
+compiling usbdmain.c...
+audio\kbd.h(13): warning:  #1-D: last line of file ends without a newline
+audio\usbdmain.c(148): warning:  #177-D: variable "j" was declared but never referenced
+linking...
+Program Size: Code=17170 RO-data=46230 RW-data=188 ZI-data=2372  
+".\Flash\Blinky.axf" - 0 Error(s), 2 Warning(s).
+Load "S:\\Desktop\\project\\Flash\\Blinky.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'LPC1768 Flash'
+compiling usbdmain.c...
+audio\kbd.h(13): warning:  #1-D: last line of file ends without a newline
+audio\usbdmain.c(146): warning:  #177-D: variable "j" was declared but never referenced
+linking...
+Program Size: Code=17230 RO-data=46230 RW-data=188 ZI-data=2372  
+".\Flash\Blinky.axf" - 0 Error(s), 2 Warning(s).
+Load "S:\\Desktop\\project\\Flash\\Blinky.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'LPC1768 Flash'
+compiling snake.c...
+KBD.h(13): warning:  #1-D: last line of file ends without a newline
+snake.c(80): warning:  #177-D: variable "j" was declared but never referenced
+snake.c(224): error:  #20: identifier "y" is undefined
+snake.c(237): error:  #20: identifier "y" is undefined
+snake.c(253): error:  #20: identifier "x" is undefined
+snake.c(301): error:  #20: identifier "x" is undefined
+snake.c(302): error:  #20: identifier "y" is undefined
+snake.c(388): warning:  #1-D: last line of file ends without a newline
+snake.c(287): warning:  #177-D: variable "fd" was declared but never referenced
+Target not created
+Build target 'LPC1768 Flash'
+compiling snake.c...
+KBD.h(13): warning:  #1-D: last line of file ends without a newline
+snake.c(80): warning:  #177-D: variable "j" was declared but never referenced
+snake.c(388): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=17230 RO-data=46230 RW-data=188 ZI-data=2372  
+".\Flash\Blinky.axf" - 0 Error(s), 3 Warning(s).
+Load "S:\\Desktop\\project\\Flash\\Blinky.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'LPC1768 Flash'
+compiling snake.c...
+KBD.h(13): warning:  #1-D: last line of file ends without a newline
+snake.c(388): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=17238 RO-data=46230 RW-data=188 ZI-data=2372  
+".\Flash\Blinky.axf" - 0 Error(s), 2 Warning(s).
+Build target 'LPC1768 Flash'
+compiling snake.c...
+KBD.h(13): warning:  #1-D: last line of file ends without a newline
+snake.c(391): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=17242 RO-data=46230 RW-data=188 ZI-data=2372  
+".\Flash\Blinky.axf" - 0 Error(s), 2 Warning(s).
+Load "S:\\Desktop\\project\\Flash\\Blinky.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...

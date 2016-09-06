@@ -1,0 +1,38 @@
+*** Creating Trace Output File '.\Flash\Blinky.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '".\flash\startup_lpc17xx.o"'
+### List of Objects: adding '".\flash\system_lpc17xx.o"'
+### List of Objects: adding '".\flash\glcd_spi_lpc1700.o"'
+### List of Objects: adding '".\flash\led.o"'
+### List of Objects: adding '".\flash\irq.o"'
+### List of Objects: adding '".\flash\blinky.o"'
+### List of Objects: adding '".\flash\kbd.o"'
+### List of Objects: adding '".\flash\photo_viewer.o"'
+### List of Objects: adding '".\flash\game_on.o"'
+### List of Objects: adding '".\flash\snake.o"'
+### List of Objects: adding '".\flash\facedown.o"'
+### List of Objects: adding '".\flash\all.o"'
+### List of Objects: adding '".\flash\usbuser.o"'
+### List of Objects: adding '".\flash\adcuser.o"'
+### List of Objects: adding '".\flash\core_cm3.o"'
+### List of Objects: adding '".\flash\usbcore.o"'
+### List of Objects: adding '".\flash\usbdesc.o"'
+### List of Objects: adding '".\flash\usbdmain.o"'
+### List of Objects: adding '".\flash\usbhw.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M3 ".\flash\startup_lpc17xx.o" ".\flash\system_lpc17xx.o" ".\flash\glcd_spi_lpc1700.o" ".\flash\led.o" ".\flash\irq.o" ".\flash\blinky.o" ".\flash\kbd.o" ".\flash\photo_viewer.o" ".\flash\game_on.o" ".\flash\snake.o" ".\flash\facedown.o" ".\flash\all.o" ".\flash\usbuser.o" ".\flash\adcuser.o" ".\flash\core_cm3.o" ".\flash\usbcore.o" ".\flash\usbdesc.o" ".\flash\usbdmain.o" ".\flash\usbhw.o" 
+--library_type=microlib --strict --scatter ".\Flash\Blinky.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\Flash\Blinky.map" -o .\Flash\Blinky.axf### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: '.\Flash\Blinky.axf'
+### ADS-LD Command File: '.\Flash\Blinky.lnp'
+### Checking for dirty Components...
+### Creating CmdFile '.\Flash\Blinky.lnp', Handle=0x00000CF4
+### Writing '.lnp' file
+### ADS-LD Command file '.\Flash\Blinky.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.

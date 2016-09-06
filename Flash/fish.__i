@@ -1,0 +1,5 @@
+-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --diag_suppress 550 
+-I C:\Keil\ARM\RV31\INC 
+-I C:\Keil\ARM\CMSIS\Include 
+-I C:\Keil\ARM\Inc\NXP\LPC17xx 
+-o ".\Flash\fish.o" --omf_browse ".\Flash\fish.crf" --depend ".\Flash\fish.d" "S:\fish.c"

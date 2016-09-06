@@ -1,0 +1,2 @@
+extern void display_image(int which); 
+extern void photo_viewer(int mode);

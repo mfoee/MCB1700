@@ -1,0 +1,13 @@
+.\Flash\game_on.o: game_on.c
+.\Flash\game_on.o: C:\Keil\ARM\Inc\NXP\LPC17xx\LPC17xx.H
+.\Flash\game_on.o: C:\Keil\ARM\CMSIS\Include\core_cm3.h
+.\Flash\game_on.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\Flash\game_on.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\Flash\game_on.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\Flash\game_on.o: C:\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h
+.\Flash\game_on.o: C:\Keil\ARM\ARMCC\bin\..\include\string.h
+.\Flash\game_on.o: GLCD.h
+.\Flash\game_on.o: LED.h
+.\Flash\game_on.o: KBD.h
+.\Flash\game_on.o: usbdmain.h
+.\Flash\game_on.o: C:\Keil\ARM\ARMCC\bin\..\include\math.h
